@@ -1,1 +1,9 @@
-console.log("Webpack 번들링 실행");
+import starttext from "./starttext";
+import timecheck from "./timecheck";
+
+const main = () => {
+  starttext.init();
+  timecheck.init();
+};
+
+main();
