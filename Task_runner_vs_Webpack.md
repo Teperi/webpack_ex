@@ -1,10 +1,10 @@
 # Task runner vs Webpack
 
 - task runner
-  ![task runner](./img/gulp.png)
+  ![task runner](./img/gulp2.png)
 
 - webpack
-  ![webpack](./img/webpack.png)
+  ![webpack](./img/webpack2.png)
 
 - webpack은 모든 리소스들(javascript, css, images, fonts, etc)에 대한 dependency graph를 생성하여 빌드시켜주는 도구
 - Grunt, Gulp는 오로지 리소스들에 대한 툴로 사용되며 dependency graph에 대한 개념이 없습니다.
